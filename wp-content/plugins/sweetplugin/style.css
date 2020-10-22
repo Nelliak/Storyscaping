@@ -197,18 +197,7 @@ span {
     box-shadow: 0px 4px 6px 0px rgba(0,0,0,0.1);
 }
 
-.button {
-    margin 0 auto;
-  background-color: #FF8566;
-    margin-bottom: 33px;
-}
 
-.button:hover {
-    background-color: #7CCF29;
-    -webkit-box-shadow: 0px 4px 6px 0px rgba(0,0,0,0.1);
-    -moz-box-shadow: 0px 4px 6px 0px rgba(0,0,0,0.1);
-    box-shadow: 0px 4px 6px 0px rgba(0,0,0,0.1);
-}
 
 .close-button {
     transition: all 0.5s ease;
@@ -220,14 +209,14 @@ span {
     margin-top: 10px;
     border-radius: 50%;
     border: 0px solid #fff;
-    color: white;
+    color: #4d4d4d;
     -webkit-box-shadow: -4px -2px 6px 0px rgba(0,0,0,0.1);
     -moz-box-shadow: -4px -2px 6px 0px rgba(0,0,0,0.1);
     box-shadow: -3px 1px 6px 0px rgba(0,0,0,0.1);
 }
 
 .close-button:hover {
-    background-color: tomato;
+    background-color: #82b2b8;
     color: #fff;
 }
 
