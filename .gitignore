@@ -1,0 +1,11 @@
+/*
+!.gitignore
+!wp-content/
+wp-content/uploads
+wp-content/languages
+wp-content/ai1wm-backups
+#macOSFiles
+.DS_Store
+Thumb.db
+.cache
+wp-content/themes/astra/package-lock.json

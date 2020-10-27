@@ -26,5 +26,5 @@
         
         wp_enqueue_script('jquery','https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js', array(), null, true);
         
-        wp_enqueue_script('CustomScript', plugins_url('partyvibesplugin/js/script.js'), array('jquery'), null, true);
+        wp_enqueue_script('CustomScript', plugins_url('sweetplugin/js/script.js'), array('jquery'), null, true);
     }
