@@ -32,7 +32,7 @@ $content .= '<div class="box small-6 large-centered">';
 $content .= '<a href="#" class="close-button">✖</a>';
 $content .= '<h3>#growwiththlangs</h3>';
 $content .= '<p class="animate__animated animate__bounceInLeft">Share moments at school on your Instagram by using hashtag #growwiththlangs.</p>';
-$content .= '<p class="animate__animated animate__bounceInRight"> "Be happy for this moment. This moment is your life." </p><i style="font-size: 48px; color: Dodgerblue;"class="fab fa-facebook"></i><i style="font-size: 48px; color: #E1306C; margin-left:10px;" class="fab fa-instagram"></i>';
+$content .= '<p class="animate__animated animate__bounceInRight"> "Be happy for this moment. This moment is your life." </p><a href="https://www.facebook.com/ThLangsHFVUC"><i style="font-size: 48px; color: Dodgerblue;"class="fab fa-facebook"></i></a><a href = "https://www.instagram.com/thlangshf_vuc/"><i style="font-size: 48px; color: #E1306C; margin-left:10px;" class="fab fa-instagram"></i></a>';
 $content .= '</div>';
 $content .= '</div>';
 
