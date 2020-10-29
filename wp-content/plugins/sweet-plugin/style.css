@@ -1,12 +1,25 @@
-body {
-    background-color: #FCFCFC;
-}
+/*
+ Theme Name:   Astra Child
+ Theme URI:    http://storyscaping.thlangshf.dk/astra-child/
+ Description:  Astra Child Theme based on parent theme Astra
+ Author:       Nela, Monika
+ Author URI:   http://storyscaping.thlangshf.dk
+ Template:     astra
+ Version:      1.0.10
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  astra child
+*/
 
 .cover {
     height: 100%;
     width: 100%;
+    margin-top: 40px;
     position: absolute;
+    text-align: center;
     z-index: 1;
+    margin-bottom: 100px;
 }
 
 .blur-in {
@@ -190,7 +203,7 @@ span {
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 10%;
+    padding-bottom: 20px;
     position: relative;
     -webkit-box-shadow: 0px 4px 6px 0px rgba(0,0,0,0.1);
     -moz-box-shadow: 0px 4px 6px 0px rgba(0,0,0,0.1);
