@@ -3,7 +3,7 @@
 * Plugin Name: Sweet Plugin 
 * Plugin URI: http://localhost/storyscapingwp
 * Description: This is a Plugin for Th Langs based on HTML5, CSS, JS and PHP
-* Version: 1.0.1.
+* Version: 1.0.2.
 * Author: Nela, Monika, Migle
 * Author URI: http://localhost/storyscapingwp
 * License: GPL2
